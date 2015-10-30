@@ -45,6 +45,6 @@ src/main/webappp/resources/public
 ```
 El proyecto incluye una muestra que se publica en 
 
-http://localhost:8080/pruebas-2015/public/ciclon.html
+http://localhost:8080/alertas-2015/public/ciclon.html
 
 

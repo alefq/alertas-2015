@@ -50,5 +50,7 @@
 	<!-- END: Task configuration -->
 
 	<mvc:resources mapping="/public/**" location="/resources/public/" />
+	<mvc:resources mapping="/webroot/**" location="/webroot/" />
 
 </beans>
+

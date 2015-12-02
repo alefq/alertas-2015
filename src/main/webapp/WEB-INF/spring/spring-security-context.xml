@@ -18,6 +18,8 @@
 
 	<http pattern="/api/**" security="none" />
 	<http pattern="/public/**" security="none" />
+	<http pattern="/webroot/**" security="none" />
+	
 
 
 	<!-- HTTP basic authentication in Spring Security -->
